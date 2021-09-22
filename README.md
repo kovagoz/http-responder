@@ -3,6 +3,12 @@
 A simple solution to create [PSR-7](https://www.php-fig.org/psr/psr-7/)
 compatible HTTP responses.
 
+![phpunit workflow](https://github.com/kovagoz/http-responder/actions/workflows/php.yml/badge.svg)
+
+## Requirements
+
+* PHP >=8.0
+
 ## Usage
 
 #### Instantiate the class:
